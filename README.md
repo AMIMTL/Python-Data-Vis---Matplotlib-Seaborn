@@ -1,2 +1,3 @@
 # Python-Data-Vis---Matplotlib-Seaborn
-Python data visualization projects using Matplotlib and Seaborn, developed as part of a Udemy data visualization course, with an emphasis on OOP-based plotting.
+This repository is created as part of the  
+[Data Visualization with Matplotlib & Seaborn – Maven Analytics](https://mavenanalytics.io/course/data-visualization-with-matplotlib-seaborn)
